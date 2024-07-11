@@ -1,15 +1,19 @@
 During my studying I tested API of PetStore ([Documentation link](https://petstore.swagger.io)). I found some bugs and made bug-reports. 
 <br>
 <br>
+<br>
 
-# Documentation defects
+# 📝 *Documentation defects*
+<br>
 <div><img src="Documentation defects/TPBKS-12.png"/></div><br>
 <div><img src="Documentation defects/TPBKS-19.png"/></div><br>
 <div><img src="Documentation defects/TPBKS-28.png"/></div><br>
 <div><img src="Documentation defects/TPBKS-29.png"/></div><br>
 
+<br>
 
-# Bug-reports
+# 🐞 *Bug-reports*
+<br>
 <div><img src="Bug-reports/TPBKS-1.png"/></div><br>
 <div><img src="Bug-reports/TPBKS-2.png"/></div><br>
 <div><img src="Bug-reports/TPBKS-3.png"/></div><br>
