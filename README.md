@@ -1,4 +1,4 @@
-During my studying I tested API of PetStore [Documentation link](https://petstore.swagger.io). I found some bugs and made bug-reports. 
+During my studying I tested API of PetStore ([Documentation link](https://petstore.swagger.io)). I found some bugs and made bug-reports. 
 <br>
 <br>
 
